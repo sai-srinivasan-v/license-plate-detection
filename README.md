@@ -3,7 +3,7 @@
 
 This is a License plate detection programme. 
 
-It isn't much but it's honesh work....
+It isn't much but it's honest work....
 
 These are your requirements:
 1.Opencv & numpy (pip install opencv-python)
